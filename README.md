@@ -4,8 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Use discord and invite to be your friend The.G.O.A.T#3326
 - Hey, this is a test for PR# bug fix
-
-<!---
-cleverbeastgitboy/cleverbeastgitboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- This is a test commit, merge and pull request
